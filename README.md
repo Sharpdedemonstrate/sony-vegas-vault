@@ -23,4 +23,4 @@ Complete **Sony Vegas Vault** video workspace offering non-linear editing, green
 Details & docs: https://sony-vegas-vault.softyx.xyz
 
 ## Legal
-> This project is shared as-is. All product names and logos belong to their respective owners.              
+> This project is shared as-is. All product names and logos belong to their respective owners.               
